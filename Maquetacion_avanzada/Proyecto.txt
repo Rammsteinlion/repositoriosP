@@ -1,0 +1,7 @@
+
+#Aminaciones
+1-Propiedad Animacion
+2-Keyframes
+3-Transitions
+4-Uniremos todo lo visto anteriormente
+5-Crearemos efectos
